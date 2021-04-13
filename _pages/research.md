@@ -3,14 +3,13 @@ layout: page
 title: Research
 permalink: /research/
 ---
-I am broadly interested in Natural Language Processing, Speech Recognition and Machine Learning Security & Privacy.
+I am broadly interested in Natural Language Processing, Theoretical Machine Learning and Systems. 
 
-#### **Selected Papers**
+#### **Conference Papers**
 
-[Hurdles to Progress in Long-form Question Answering](https://arxiv.org/abs/2103.06332)  
-*Kalpesh Krishna*, Aurko Roy, Mohit Iyyer  
-**NAACL 2021**  
-[blog](https://ai.googleblog.com/2021/03/progress-and-challenges-in-long-form.html) // external summaries: [video1](https://www.youtube.com/watch?v=StyE5noPe4g&t=2839s&ab_channel=HenryAILabs), [video2](https://www.youtube.com/watch?v=8tZZoX5ct0I&t=2937s&ab_channel=HenryAILabs), [VentureBeat](https://venturebeat.com/2021/03/17/language-models-struggle-to-answer-questions-without-paraphrasing-training-data/), [Ruder's newsletter](http://newsletter.ruder.io/issues/qa-how-did-we-get-here-adapting-to-time-data-detectives-379447), [MarkTechPost](https://www.marktechpost.com/2021/03/27/google-ai-introduces-a-new-system-for-open-domain-long-form-question-answering-lfqa/), [TechStory](https://techstory.in/google-ai-introduces-a-new-system-for-open-domain-long-form-question-answering-lfqa/)
+[More the Merrier: Towards Multi-Emotion and Intensity Controllable Response Generation] #(https://arxiv.org/abs/2103.06332)  
+Mauzama Firdaus, *Hardik Chauhan*,Asif Ekbal, Pushpak Bhattacharyya
+**AAAI 2021**  
 
 [Reformulating Unsupervised Style Transfer as Paraphrase Generation](https://arxiv.org/abs/2010.05700)  
 *Kalpesh Krishna*, John Wieting, Mohit Iyyer  
