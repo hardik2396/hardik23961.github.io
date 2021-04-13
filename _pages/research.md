@@ -13,7 +13,7 @@ Mauzama Firdaus, *Hardik Chauhan*,Asif Ekbal, Pushpak Bhattacharyya <br>
 
 [MEISD: Multimodal Multi-Label Emotion, Intensity and Sentiment Dialogue Dataset for Emotion
 Recognition and Sentiment Analysis in Conversations](https://www.aclweb.org/anthology/2020.coling-main.393.pdf)  
-Mauzama Firdaus, *Hardik Chauhan*,Asif Ekbal, Pushpak Bhattacharyya <br>
+Mauzama Firdaus, *Hardik Chauhan*, Asif Ekbal, Pushpak Bhattacharyya <br>
 **COLING 2020 (Oral Presentation)**  
 
 [Reinforced Multi-task Approach for Multi-hop Question Generation](https://arxiv.org/abs/2004.02143)  
@@ -32,7 +32,7 @@ Aarush Gupta, Dakshit Agrawal, *Hardik Chauhan*, Jose Dolz, and Marco Pedersoli 
 #### **Journal Papers**
 
 [EmoSen: Generating Sentiment and Emotion Controlled Responses in Multimodal Dialogue](https://ieeexplore.ieee.org/document/9165162)  
-Mauzama Firdaus*,Hardik Chauhan*, Asif Ekbal, Pushpak Bhattacharyya <br>
+Mauzama Firdaus, *Hardik Chauhan*, Asif Ekbal, Pushpak Bhattacharyya <br>
 **IEEE Transactions on Affective Computing** <br>
 **Impact Factor 7.51**
 
