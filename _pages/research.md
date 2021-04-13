@@ -7,7 +7,7 @@ I am broadly interested in Natural Language Processing, Theoretical Machine Lear
 
 #### **Conference Papers**
 
-[More the Merrier: Towards Multi-Emotion and Intensity Controllable Response Generation](https://www.cse.iitb.ac.in/~pb/papers/aaai21-ea.pdf)
+[More the Merrier: Towards Multi-Emotion and Intensity Controllable Response Generation](https://www.cse.iitb.ac.in/~pb/papers/aaai21-ea.pdf) <br>
 Mauzama Firdaus, *Hardik Chauhan*,Asif Ekbal, Pushpak Bhattacharyya <br>
 **AAAI 2021**  
 
@@ -34,8 +34,6 @@ Aarush Gupta, Dakshit Agrawal, *Hardik Chauhan*, Jose Dolz, and Marco Pedersoli 
 [EmoSen: Generating Sentiment and Emotion Controlled Responses in Multimodal Dialogue](https://ieeexplore.ieee.org/document/9165162)  
 Mauzama Firdaus, *Hardik Chauhan*, Asif Ekbal, Pushpak Bhattacharyya <br>
 **IEEE Transactions on Affective Computing** <br>
-**Impact Factor 7.51**
-
 
 
 #### **Other Research (Course Projects)**
