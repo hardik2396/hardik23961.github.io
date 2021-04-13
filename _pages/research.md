@@ -8,32 +8,33 @@ I am broadly interested in Natural Language Processing, Theoretical Machine Lear
 #### **Conference Papers**
 
 [More the Merrier: Towards Multi-Emotion and Intensity Controllable Response Generation](https://www.cse.iitb.ac.in/~pb/papers/aaai21-ea.pdf)
-Mauzama Firdaus, *Hardik Chauhan*,Asif Ekbal, Pushpak Bhattacharyya
+Mauzama Firdaus, *Hardik Chauhan*,Asif Ekbal, Pushpak Bhattacharyya <br>
 **AAAI 2021**  
 
 [MEISD: Multimodal Multi-Label Emotion, Intensity and Sentiment Dialogue Dataset for Emotion
 Recognition and Sentiment Analysis in Conversations](https://www.aclweb.org/anthology/2020.coling-main.393.pdf)  
-Mauzama Firdaus, *Hardik Chauhan*,Asif Ekbal, Pushpak Bhattacharyya 
+Mauzama Firdaus, *Hardik Chauhan*,Asif Ekbal, Pushpak Bhattacharyya <br>
 **COLING 2020 (Oral Presentation)**  
 
 [Reinforced Multi-task Approach for Multi-hop Question Generation](https://arxiv.org/abs/2004.02143)  
-Deepak Gupta, *Hardik Chauhan*, Akella Ravi Tej, Asif Ekbal, Pushpak Bhattacharyya 
+Deepak Gupta, *Hardik Chauhan*, Akella Ravi Tej, Asif Ekbal, Pushpak Bhattacharyya <br>
 **COLING 2020**  
 
 [Ordinal and Attribute Aware Response Generation in Multimodal Dialogue System](https://www.aclweb.org/anthology/P19-1540.pdf)  
-*Hardik Chauhan*, Mauzama Firdaus, Asif Ekbal, Pushpak Bhattacharyya
+*Hardik Chauhan*, Mauzama Firdaus, Asif Ekbal, Pushpak Bhattacharyya <br>
 **ACL 2019**  
 
 [An Attention Model for Group-Level Emotion Recognition](https://arxiv.org/abs/1807.03380)  
-Aarush Gupta, Dakshit Agrawal, *Hardik Chauhan*, Jose Dolz, and Marco Pedersoli
+Aarush Gupta, Dakshit Agrawal, *Hardik Chauhan*, Jose Dolz, and Marco Pedersoli <br>
 **ICMI 2018**  
 
 
 #### **Journal Papers**
 
 [EmoSen: Generating Sentiment and Emotion Controlled Responses in Multimodal Dialogue](https://ieeexplore.ieee.org/document/9165162)  
-Mauzama Firdaus*,Hardik Chauhan*, Asif Ekbal, Pushpak Bhattacharyya 
-**IEEE Transactions on Affective Computing (Impact Factor 7.51)**
+Mauzama Firdaus*,Hardik Chauhan*, Asif Ekbal, Pushpak Bhattacharyya <br>
+**IEEE Transactions on Affective Computing **
+**Impact Factor 7.51**
 
 
 
