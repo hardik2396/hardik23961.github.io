@@ -11,8 +11,8 @@ I received my undergraduate degree at [IIT Bombay](http://iitb.ac.in). In the pa
 
 I maintain a list of my publications and research implementations under the [Research]({{ site.url }}/research) tab. I also [blog]({{ site.url }}/archive) every now and then compiling my personal experiences.
 
-CV / Resume: [link]({{ site.url }}/assets/cv.pdf)  
-Email ID: [kalpesh@cs.umass.edu](mailto:kalpesh@cs.umass.edu)
+CV / Resume: [link]({{ site.url }}/assets/CV.pdf)  
+Email ID: [chauhanhardik23@gmail.com](mailto:chauhanhardik23@gmail.com)
 
 #### Updates
 
