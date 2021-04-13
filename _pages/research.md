@@ -33,7 +33,7 @@ Aarush Gupta, Dakshit Agrawal, *Hardik Chauhan*, Jose Dolz, and Marco Pedersoli 
 
 [EmoSen: Generating Sentiment and Emotion Controlled Responses in Multimodal Dialogue](https://ieeexplore.ieee.org/document/9165162)  
 Mauzama Firdaus*,Hardik Chauhan*, Asif Ekbal, Pushpak Bhattacharyya <br>
-**IEEE Transactions on Affective Computing **
+**IEEE Transactions on Affective Computing** <br>
 **Impact Factor 7.51**
 
 
